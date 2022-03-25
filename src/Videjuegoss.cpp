@@ -343,4 +343,5 @@ void you_lose__song(void){
 		Beep(200, 800);
 		Beep(100, 800);
 		Beep(80, 1500);
+		Beep(80, 1500);
 }
